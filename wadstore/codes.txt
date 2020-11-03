@@ -1,0 +1,158 @@
+ <section class="tu-mejor-eleccion">
+                <div class="container">
+
+                    <h2 class="text-center h3 font-weight-bold">porque somos <span>tu mejor eleccion</span></h2>
+                    <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Error aliquam
+                        dolores quae soluta.</p>
+
+                    <div class="row">
+                        <ul class="col-6 text-center col-md-4 text-md-left">
+                            <li>
+                                <i class="fa fa-briefcase" aria-hidden="true"></i>
+                                <div class="contenedor-elecciones">
+                                    <h4>aplicaciones para la nuve</h4>
+                                    <p class="d-none d-sm-block">para empresas que quere amp;iar su plataforma de
+                                        gestion</p>
+                                </div>
+                            </li>
+                            <li>
+                                <i class="fa fa-bullhorn" aria-hidden="true"></i>
+                                <div class="contenedor-elecciones">
+                                    <h4>apli de software</h4>
+                                    <p class="d-none d-sm-block">servicios de mejora colectiva y evolutiva para sus
+                                        Aplicaciones</p>
+                                </div>
+                            </li>
+                            <li>
+                                <i class="fa fa-comment-o" aria-hidden="true"></i>
+                                <div class="contenedor-elecciones">
+                                    <h4>gestion en la nuve</h4>
+                                    <p class="d-none d-sm-block">servicios de mejora colectiva y evolutiva para sus
+                                        Aplicaciones</p>
+                                </div>
+                            </li>
+                        </ul>
+
+                        <div class="intro d-none d-md-block col-md-4">
+                            <img src="img/download.svg" alt="imagen no encontrado">
+                        </div>
+
+                        <ul class="col-6 text-center col-md-4 text-md-right">
+                            <li>
+                                <i class="fa fa-calendar" aria-hidden="true"></i>
+                                <div class="contenedor-elecciones">
+                                    <h4>gestion en la nuve</h4>
+                                    <p class="d-none d-sm-block">servicios de mejora colectiva y evolutiva para sus
+                                        Aplicaciones</p>
+                                </div>
+                            </li>
+                            <li>
+                                <i class="fa fa-check-square-o aria-hidden=true"></i>
+                                <div class="contenedor-elecciones">
+                                    <h4>gestion en la nuve</h4>
+                                    <p class="d-none d-sm-block">servicios de mejora colectiva y evolutiva para sus
+                                        Aplicaciones</p>
+                                </div>
+                            </li>
+                            <li>
+                                <i class="fa fa-cogs" aria-hidden="true"></i>
+                                <div class="contenedor-elecciones">
+                                    <h4>gestion en la nuve</h4>
+                                    <p class="d-none d-sm-block">servicios de mejora colectiva y evolutiva para sus
+                                        Aplicaciones</p>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+            </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>My First Bootstrap Page</h1>
+  <p>Resize this responsive page to see the effect!</p> 
+</div>
+  
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <h3>Column 1</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Column 2</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Column 3</h3>        
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+
+
+
